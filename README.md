@@ -1,46 +1,41 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+>This is a Case study of customer's Data, It contains the complete loan data for all loans issued through the time period 2007 t0 2011.
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+## Goals of data analysis:
+* In this case study the data is being Analysed to figure out some important Insights
+* Tools & Soft: Python and its Library- Numpy, Pandas, Matplotlib, Seaborn, Warnings, Git & Github
+* Operations: Data Cleaning, Manipulation, Computation and Visualization
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
+## Goals for Data Analysis
+-Lending loans to ‘risky’ applicants is the largest source of financial loss
+(called credit loss). The credit loss is the amount of money lost by the lender 
+when the borrower refusesto pay or runs away with the money owed. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The main objective is to be able to identify these risky loan applicants, 
+then such loans can be reduced thereby cutting down the amount of credit loss. 
+Identification of such applicants using EDA is the aim of this case study. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Perform an analysis to understand the driving factors (or driver variables)
+behind loan default, i.e.the variables which are strong indicators of default.  
+The company can utilise this knowledge for its portfolio and risk assessment. 
 
+##  Step 1: Data Cleaning 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+##  Step 2: Univariate Analysis
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+##  Step 3: Segemented Univariate Analysis
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+##  Step 4: Bivaraiate/Multivariate Analysis
+
+##  Step 5: Results
 
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Created by
+Shailesh Patel
+
+## Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore
+Created by [@shaileshawk] - feel free to contact me!
+shaileshp1998.sp@gmail.com
 
